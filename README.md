@@ -35,7 +35,7 @@ Graduate of International Relations, Universitas Andalas (2025), with over three
 
 **Community Facilitator Intern — JEMARI Sakato / ASB Southeast Asia**
 *October – December 2024 | Mentawai*
-- Conducted 21 structured interviews across four villages on climate adaptation and GEDSI
+- Conducted 21 structured interviews across four villages in Mentawai on climate adaptation and GEDSI (Great Mentawai Program)
 - Supported community-based disaster preparedness mapping in Padang Pariaman and Agam
 
 ---
@@ -81,4 +81,4 @@ GPA: 3.97/4.00
 | Document | Description |
 |----------|-------------|
 | [Thesis Excerpt](https://github.com/thoriqgiffan/thoriq-giffan-portfolio/blob/main/Thoriq%20Giffan%20Aditya_Thesis%20Excerpt.pdf) | Undergraduate thesis applying Putnam's two-level games framework to analyze Costa Rica's failure to ratify the Escazú Agreement. Demonstrates analytical writing and institutional policy analysis. |
-[Produk  Usaha  Mikro  Kecil  dan  Menengah  (UMKM)  Berkelanjutan Berbasis  Tujuan  Pembangunan  Berkelanjutan  (TPB)  di Kejulasi, Agam, Sumatera Barat](https://wartaandalas.lppm.unand.ac.id/index.php/jwa/article/view/715/521) | Published journal article on sustainable UMKM development aligned with SDGs in Nagari Lasi, Agam. Demonstrates field research, community engagement, and policy analysis. |
+[Produk  Usaha  Mikro  Kecil  dan  Menengah  (UMKM)  Berkelanjutan Berbasis  Tujuan  Pembangunan  Berkelanjutan  (TPB)  di Kejulasi, Agam, Sumatera Barat](https://wartaandalas.lppm.unand.ac.id/index.php/jwa/article/view/715/521) | Published journal article on sustainable UMKM development aligned with SDGs in Nagari Lasi, Agam Regency, West Sumatera. Demonstrates field research, community engagement, and policy analysis. |
