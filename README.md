@@ -55,7 +55,7 @@ Graduate of International Relations, Universitas Andalas (2025), with over three
 ---
 
 ## Research Skills
-- Qualitative Research: literature review, axial coding, structured interviews, data coding
+- Qualitative and Mixed Research: literature review, axial coding, structured interviews, data coding
 - Policy Writing: policy briefs, concept notes, op-eds, book chapters, reports
 - Meeting Coordination, Documentation, and Follow-Up Reporting
 - Multi-Stakeholder Coordination and Intercultural Communication
