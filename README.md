@@ -1,4 +1,4 @@
-# thoriq--giffan-portfolio
+# thoriq-giffan-portfolio
 Research and Policy Analysis Portfolio
 📧 thoriqgiffan11@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/thoriqgiffanaditya)
 
