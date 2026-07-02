@@ -76,4 +76,8 @@ GPA: 3.97/4.00
 
 ---
 
-*Portfolio documents available upon request.*
+## Portfolio Samples
+
+| Document | Description |
+|----------|-------------|
+| [Escazú Agreement Thesis Excerpt](https://github.com/thoriqgiffan/thoriq-giffan-portfolio/blob/main/Thoriq_Giffan_Aditya_Writing_Sample_Escazu.pdf) | Undergraduate thesis applying Putnam's two-level games framework to analyze Costa Rica's failure to ratify the Escazú Agreement. Demonstrates analytical writing and institutional policy analysis. |
